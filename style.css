@@ -1,0 +1,40 @@
+/*Backgrounds*/
+
+body {
+    background: #000;
+    color: #EEE;
+}
+
+.post-title {
+    background: #060606;
+}
+
+.entry-content {
+    background: #060606;
+}
+
+blockquote {
+    background: #060606;
+}
+
+.box {
+    background: #060606;
+}
+
+.native-ads-footer {
+    background: #060606;
+}
+
+/*Fonts*/
+
+#above-content-button {
+    color: #EEE;
+}
+
+.entry-content p {
+    color: #EEE;
+}
+
+blockquote p {
+    color: #EEE !important;
+}
