@@ -81,3 +81,71 @@ blockquote p {
     background: #060606 !important;
     color: #EEE !important;
 }
+
+.pagination>a {
+    background: none;
+}
+
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+    background-color: #060606;
+    border: 3px solid #222 !important;
+    border-radius: 0 !important;
+}
+
+.bluth.tproger,
+.btn {
+    background: #222;
+    color: #CCC;
+    border: 3px solid #222;
+    border-radius: 0;
+}
+
+.btn.bluth.tproger:hover,
+.btn.bluth.tproger:focus {
+    background: #444;
+    color: #FFF;
+    border-radius: 0;
+}
+
+#masthead .bluth-navigation.fixed {
+    border: none;
+}
+
+#masthead .bluth-navigation {
+    /* background: #000; */
+}
+
+.jobs-baner-meta {
+    color: inherit !important;
+}
+
+.about-company-jobs-title a {
+    color: #04a49c !important;
+}
+
+.grf-list__link {
+    background-color: #060606 !important;
+}
+
+.share-story>li>a>i::before {
+    color: #CCC;
+}
+
+footer.entry-meta ul a {
+    color: #04a49c;
+}
