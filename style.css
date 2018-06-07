@@ -25,6 +25,16 @@ blockquote {
     background: #060606;
 }
 
+.navbar-inverse .navbar-inner,
+.widget-head,
+header#masthead {
+    background: #060606 !important;
+}
+
+.widget_tag_cloud .tagcloud a {
+    background: #060606 !important;
+}
+
 /*Fonts*/
 
 #above-content-button {
@@ -36,5 +46,38 @@ blockquote {
 }
 
 blockquote p {
+    color: #EEE !important;
+}
+
+.news-title a {
+    color: #EEE !important;
+}
+
+.news-show-all {
+    color: #EEE !important;
+}
+
+.entry-title a {
+    color: #DDD !important;
+}
+
+.event-wrapper>a>span {
+    color: #EEE !important;
+}
+
+.grf-list__title {
+    color: #EEE !important;
+}
+
+.tag-menu-item>a {
+    color: #FFF !important;
+}
+
+.switcher_content>span {
+    color: #EEE !important;
+}
+
+#feed_mode_select {
+    background: #060606 !important;
     color: #EEE !important;
 }
