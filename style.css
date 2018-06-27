@@ -61,6 +61,13 @@ blockquote p {
     color: #DDD !important;
 }
 
+.entry-content p,
+.entry-content ul li,
+.entry-content p,
+.entry-content ol li {
+    color: #EEE;
+}
+
 .event-wrapper>a>span {
     color: #EEE !important;
 }
